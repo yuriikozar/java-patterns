@@ -1,9 +1,5 @@
 package org.example.mometo;
 
-import java.util.HashMap;
-import java.util.Map;
-
-// Originator: TextEditor
 class TextEditor {
     private StringBuilder content = new StringBuilder();
 
